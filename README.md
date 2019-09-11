@@ -19,7 +19,7 @@ While working on [tramontanaCV](https://tramontana.xyz/tramontanacv) I stumbled 
 ## Developer guide
 ofxiOSFaceTracking doesn't have dependencies and it works with ARC enabled or not.
 
-Tested on macOS 10.14 and of 0.10.1 for iOS.
+Tested on iOS 12 and of_ios 0.10.1.
 
 ## Examples
 The two examples show how to use the addon on a video feed or on a static image.
