@@ -10,6 +10,8 @@ ofxiOSFaceTracking needs  iOS 11 or later.
 After you have created the project:
 
 1. add Vision SDK
+
+
 ![preview](./addVisionFramework.gif)
 
 
