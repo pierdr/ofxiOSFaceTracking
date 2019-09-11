@@ -1,5 +1,5 @@
 # ofxiOSFaceTracking
-Using iOS native Machine Learning toolkit (CoreML) to detect faces. 
+openFrameworks addon that uses iOS native Machine Learning toolkit (CoreML) to detect faces. 
 
 ![preview](./preview.gif)
 
